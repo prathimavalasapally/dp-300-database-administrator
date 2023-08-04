@@ -8,9 +8,9 @@ You have been hired as a database administrator to identify performance related 
 
 ## Task 1 - Restore a database
 
-1.  Double click on icon SSMS on your labvm. 
+1.  Double click on the icon SSMS on your labvm. 
 
-       ![Picture 01](../images/ssms.png)
+    ![Picture 01](../images/ssms.png)
 
 1. When SSMS opens, notice that the **Connect to Server** dialog will be pre-populated with the default instance name with **sqlvm-<inject key="DeploymentID" enableCopy="false" /> (1)**. Select **Connect (2)**.
 
